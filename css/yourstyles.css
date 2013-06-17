@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  padding-top: 50px;
+}
+
+/* ++++++++++++++  image float style ++++++++++++++ */
+.img-fulltext-left {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.img-intro-left {
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.img-fulltext-right {
+  float:left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.img-intro-right {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.blog-featured h2 {
+}
+.items-leading {
+
+}
+
+.items-row {
+  float: left;
+  width: 100%;
+  display: inline;
+}
+
+.item img {
+  float: left;
+  padding: 0.5em 2em 0.7em 2em;
+}
+.item p{
+}
+.item {
+  float: left;
+  text-decoration: none;
+}
+.column-1 {
+  width:50%;
+}
+.column-2 {
+  width:50%;
+}
+p.readmore a {
+}p.readmore:hover {
+
+}p.readmore:active {
+
+}

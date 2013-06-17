@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.6//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="2.5" type="template" method="upgrade">
+    <name>Fabian Manzano Boostrap Template</name>
+    <creationDate>June 2013</creationDate>
+    <author>Edgar Fabian Manzano</author>
+    <authorEmail>manzanofab@hotmail.com</authorEmail>
+    <authorUrl>http://fabianmanzano.info</authorUrl>
+    <copyright>Copyright (C) 2013 Fabian Manzano</copyright>
+    <version>1.0</version>
+    <description><![CDATA[    <p>Free template for joomla 2.5 using bootstrap toolkit.<p>    ]]></description>
+    <files>
+        <filename>index.php</filename>
+		<filename>index.html</filename>
+		<filename>favicon.ico</filename>
+        <filename>templateDetails.xml</filename>
+        <folder>css</folder>
+		<folder>html</folder>
+		<folder>img</folder>
+		<folder>images</folder>		
+		<folder>js</folder>
+    </files>
+    <positions>
+        <position>header</position>
+		<position>menu</position>
+        <position>small-left</position>        
+        <position>half-left</position>
+        <position>half-right</position>
+        <position>footer</position>
+        <position>extra1</position>
+        <position>extra2</position>
+		<position>extra3</position>
+		<position>extra4</position>				
+    </positions>
+</extension>
